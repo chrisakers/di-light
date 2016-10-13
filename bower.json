@@ -1,0 +1,26 @@
+{
+  "name": "di-light",
+  "authors": [
+    "Chris Akers <chris.akers@gmail.com>"
+  ],
+  "description": "Super-lightweight dependency injection suitable for use in the browser",
+  "main": "dist/inject.browser.js",
+  "moduleType": "globals",
+  "keywords": [
+    "DI",
+    "dependecy",
+    "dependency injection"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisakers/di-light.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

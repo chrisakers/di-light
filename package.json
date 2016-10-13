@@ -1,0 +1,27 @@
+{
+  "name": "di-light",
+  "version": "1.0.0",
+  "description": "Super-lightweight dependency injection suitable for use in the browser",
+  "main": "dist/inject.node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisakers/di-light.git"
+  },
+  "keywords": [
+    "DI",
+    "dependency",
+    "injection"
+  ],
+  "author": "Chris Akers <chris.akers@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisakers/di-light/issues"
+  },
+  "homepage": "https://github.com/chrisakers/di-light#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
